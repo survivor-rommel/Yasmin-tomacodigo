@@ -1,0 +1,19 @@
+﻿  MyForm.cpp
+C:\Users\Rommel\Desktop\Ver-master\VideoGame\VideoGame\Escenario.h(26,1): warning C4353: se ha utilizado una extensión no estándar: constante 0 como expresión de función. Utilice en su lugar la función intrínseca '__noop'
+C:\Users\Rommel\Desktop\Ver-master\VideoGame\VideoGame\Escenario.h(26,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Rommel\Desktop\Ver-master\VideoGame\VideoGame\ACajas.h(14,28): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Rommel\Desktop\Ver-master\VideoGame\VideoGame\ACajas.h(20,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Rommel\Desktop\Ver-master\VideoGame\VideoGame\Enemigo.h(13,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Rommel\Desktop\Ver-master\VideoGame\VideoGame\Calavera.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Rommel\Desktop\Ver-master\VideoGame\VideoGame\Control.h(61,20): warning C4018: '<': no coinciden signed/unsigned
+  MyForm1.cpp
+C:\Users\Rommel\Desktop\Ver-master\VideoGame\VideoGame\Escenario.h(26,1): warning C4353: se ha utilizado una extensión no estándar: constante 0 como expresión de función. Utilice en su lugar la función intrínseca '__noop'
+C:\Users\Rommel\Desktop\Ver-master\VideoGame\VideoGame\Escenario.h(26,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Rommel\Desktop\Ver-master\VideoGame\VideoGame\ACajas.h(14,28): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Rommel\Desktop\Ver-master\VideoGame\VideoGame\ACajas.h(20,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Rommel\Desktop\Ver-master\VideoGame\VideoGame\Enemigo.h(13,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Rommel\Desktop\Ver-master\VideoGame\VideoGame\Calavera.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Rommel\Desktop\Ver-master\VideoGame\VideoGame\Control.h(61,20): warning C4018: '<': no coinciden signed/unsigned
+  Generando código...
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  VideoGame.vcxproj -> C:\Users\Rommel\Desktop\Ver-master\VideoGame\Debug\VideoGame.exe
